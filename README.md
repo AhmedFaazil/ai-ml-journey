@@ -15,3 +15,10 @@ This repo tracks my journey from total beginner to expert.
 - Discovered: 
   - Women survived more than men
   - 1st Class passengers had higher survival
+## 🧠 Day 6 Log – Rule-Based AI Prediction
+
+- Built a function to predict Titanic survival based on sex, class, and age
+- Achieved ~0.78% accuracy using manual rules
+- Modified logic to explore better rules
+- Understood the limitations of hardcoded rule-based models
+
