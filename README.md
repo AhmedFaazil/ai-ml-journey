@@ -22,3 +22,8 @@ This repo tracks my journey from total beginner to expert.
 - Modified logic to explore better rules
 - Understood the limitations of hardcoded rule-based models
 
+## Day 7 – Machine Learning Begins: Decision Tree Classifier
+
+- Trained my first ML model using `sklearn`
+- Model accuracy: __74%__
+- Learned how Decision Trees mimic rule-based logic automatically
