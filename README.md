@@ -27,3 +27,11 @@ This repo tracks my journey from total beginner to expert.
 - Trained my first ML model using `sklearn`
 - Model accuracy: __74%__
 - Learned how Decision Trees mimic rule-based logic automatically
+
+## Day 8 – Random Forest Classifier
+
+- Trained a Random Forest model on Titanic dataset
+- Accuracy: __80%__
+- Visualized feature importance
+- Learned how multiple trees vote to reduce overfitting
+- 
