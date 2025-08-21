@@ -35,3 +35,13 @@ This repo tracks my journey from total beginner to expert.
 - Visualized feature importance
 - Learned how multiple trees vote to reduce overfitting
 
+## Day 9 – Model Evaluation & Cross-Validation
+
+- Learned how to check model performance beyond just accuracy  
+- Explored key metrics: **Precision, Recall, F1-score, Confusion Matrix**  
+- Practiced evaluating a Decision Tree on the Iris dataset  
+- Tried **Cross-Validation (5-fold)** to test stability of the model  
+- Accuracy on Iris dataset: ~95% (varies with random split)  
+- Understood why cross-validation is more reliable than a single train-test split
+
+
