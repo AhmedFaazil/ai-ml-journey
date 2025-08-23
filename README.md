@@ -61,3 +61,13 @@ This repo tracks my journey from total beginner to expert.
 - Baseline model: Logistic Regression (CV ~ 78.8%)
 - Also tried Random Forest (CV ~ 80.9%)
 - Learned end-to-end: data → model → prediction → *real* submission
+
+## Day 12 – Feature Engineering (Titanic)
+
+- Added new features: **FamilySize, IsAlone, Title, CabinDeck, FarePerPerson, TicketGroupSize, AgeBin**
+- Rebuilt pipeline with **imputation + one-hot + scaling**
+- Compared **Logistic Regression** vs **Random Forest** using 5-fold CV
+- (Optional) Ran a tiny **GridSearchCV** for RF
+- Created and uploaded `submission_day12_features.csv`
+- Result: CV improved from ~76.555 to ~76.794
+- 
