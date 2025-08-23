@@ -53,3 +53,11 @@ This repo tracks my journey from total beginner to expert.
 - **Saved the whole pipeline** (preprocess + model) as `titanic_pipeline_lr.joblib`
 
 
+## Day 11 – First Kaggle Submission (Titanic)
+
+- Trained a clean pipeline (imputation + one-hot + scaling)
+- Fit on full `train.csv`, predicted on `test.csv`
+- Created `submission.csv` (PassengerId, Survived) and uploaded to Kaggle
+- Baseline model: Logistic Regression (CV ~ 78.8%)
+- Also tried Random Forest (CV ~ 80.9%)
+- Learned end-to-end: data → model → prediction → *real* submission
