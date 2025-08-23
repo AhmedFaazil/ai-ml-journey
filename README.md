@@ -44,4 +44,12 @@ This repo tracks my journey from total beginner to expert.
 - Accuracy on Iris dataset: ~95% (varies with random split)  
 - Understood why cross-validation is more reliable than a single train-test split
 
+## Day 10 – First End-to-End ML Pipeline (Titanic)
+- Built a clean **scikit-learn Pipeline** with `ColumnTransformer`
+- Automatic **imputation**, **one-hot encoding**, and **scaling**
+- Trained **Logistic Regression** + tried **Random Forest**
+- Did a tiny **GridSearchCV** to tune
+- Evaluated with **accuracy + classification report**
+- **Saved the whole pipeline** (preprocess + model) as `titanic_pipeline_lr.joblib`
+
 
